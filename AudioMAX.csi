@@ -1,0 +1,16 @@
+[History]
+B0=AudioMAX/frmMAXmain/TreeView1_Expand
+B1=AudioMAX/frmMAXmain/Form_Load
+B2=AudioMAX/clsLoadDrives/subLoadTreeView
+B3=AudioMAX/modCompName/str_CompName
+B4=AudioMAX/modStripNull/f_StripNullChr
+B5=AudioMAX/frmMAXmain
+B6=AudioMAX/frmMAXmain/mnuPlay_Click
+B7=AudioMAX/frmMAXmain/Timer5_Timer
+B8=AudioMAX/frmMAXmain/Timer4_Timer
+B9=AudioMAX/frmMAXmain/Timer1_Timer
+B10=AudioMAX/frmMAXmain/Timer7_Timer
+B11=AudioMAX/frmMAXmain/Timer8_Timer
+B12=AudioMAX/frmMAXmain/Switch_2
+B13=AudioMAX/frmMAXmain/AControl
+B14=AudioMAX/frmMAXmain/Timer2_Timer
